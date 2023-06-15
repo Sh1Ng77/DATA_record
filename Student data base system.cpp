@@ -121,7 +121,3 @@ int main()
     
     return 0;
 }
-
-5	vidya	85/6	   ab-		se	a	9632587410
-*/
-
