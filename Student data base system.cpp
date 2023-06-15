@@ -4,11 +4,6 @@ Contact address, Telephone number, Driving license no. and other. Construct the 
 suitable member functions. Make use of constructor, default constructor, copy constructor,
 destructor, static member functions, friend class, this pointer and dynamic memory
 allocation operators-new and delete.
-
-Name : Deep Chhabhaiya
-Roll no. : 17
-Class : SE (AIDS)
-Div : A
 */
 #include <iostream>
 #include<string.h>
@@ -126,23 +121,6 @@ int main()
     
     return 0;
 }
-
-
-
-
-
-
-/*
- All the details are as below: 
-Roll	Name	DOB	Bloodgroup	Class	Div	Phone
-
-1	Deep	19/05	   o		se	a	9854123532
-
-2	ram	21/2	   a		se	a	8542154863
-
-3	aditya	10/10	   ab		se	a	8541236549
-
-4	disha	12/3	   b		se	a	7441258963
 
 5	vidya	85/6	   ab-		se	a	9632587410
 */
